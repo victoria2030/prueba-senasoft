@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700');
+
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background-color:#fff; 
+}
+.logo {
+    width: 40PX;
+    height: 40px;
+    position: relative;
+	left: 80px;
+	top: 20px;
+    margin:0 auto;
+    float: left;  
+}
+.ind {
+	position: absolute;
+	width: 100%;
+	height: 660px;
+	overflow: hidden;
+}
+
+.ind h1{
+	font-size:20px; 
+	top:25px;
+	width: 115PX;
+    position: absolute;
+	left: 130px;
+    margin:0 auto;
+    float: left;
+	color:#fff;
+	float: left;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: normal;
+	
+}
+.nad{
+	position: absolute;
+	width: 540px;
+	height: 20px;
+	right: 40px;
+	top:25px;
+	bottom: 0;
+	margin:0 ;
+	list-style: none;
+}
+.nad li{
+	float: left;
+	width: 60px;
+	height: 20px;
+	margin-left: 20px;
+	 
+}
+
+.nad a{
+	
+	font-family: 'Titillium Web', sans-serif;
+	text-decoration: none;
+	color: #fff;
+	font-size:18px; 
+	margin: auto;
+	display: block;
+}
+.nad a:hover{
+	font-size:17.5px; 
+	color: rgb(30, 148, 245);
+	font-weight: bold;
+}
+video{
+	position: absolute; 
+	width: 100%;
+	top: 0px;
+}
+h2{
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 487px;
+	margin-right: 100px;
+	margin-top:245px;
+	margin-bottom:0; 
+	font-size:50px; 
+	color: #fff;
+	position: absolute;
+	font-weight: normal;
+}
+h5{
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 625px;
+	margin-right: 100px;
+	margin-top:245px;
+	margin-bottom:0; 
+	font-size:50px; 
+	color: #fff;
+	position: absolute;
+	
+}
+h3{
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 600px;
+	margin-right: 100px;
+	margin-top:350px;
+	margin-bottom:0; 
+	font-size:25px; 
+	color: #fff;
+	position: absolute;
+	
+	
+}
+h4{
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 620px;
+	margin-right: 100px;
+	margin-top:390px;
+	margin-bottom:0; 
+	font-size:20px; 
+	color: #fff;
+	position: absolute;
+	font-weight: normal;
+	
+}
+/* ----------------------------------------------------------------------------------------------------------- */
+.posts img{
+	width: 650px;
+	height: 330px;
+	position: relative;
+	margin-top: 700px;
+	margin-left: 200px;
+	float: left;
+}
+.posts nav h4{
+	font-family: 'Titillium Web', sans-serif;
+	width: 100px;
+	height: 20px;
+	position: relative;
+	margin-left: 5px;
+	margin-top:-10px;
+	float: left;
+	color:rgba(62, 62, 66, 0.993);
+	font-size: 30px;
+	
+}
+.posts nav h3{
+	font-family: 'Titillium Web', sans-serif;
+	width: 100px;
+	height: 0px;
+	position: absolute;
+	margin-left: 150px;
+	margin-top:-10px;
+	float: left;
+	color:rgba(56, 56, 78, 0.733);
+	font-size: 30px;
+	
+}
+.posts nav{
+	position: absolute;
+	margin-left: 915px;
+	margin-top:750px;
+	width: 300px;
+	height: 30px;
+	border-bottom:solid 2px blue ;
+	font-size: 20px;
+	
+
+}
+.posts div {
+	font-family: 'Titillium Web', sans-serif;
+	position: absolute;
+	margin-left: 915px;
+	margin-top:850px;
+	float: left;
+}
